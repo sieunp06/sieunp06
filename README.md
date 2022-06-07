@@ -7,7 +7,7 @@
 -----------------
 -->
 
-# GitHub stats
+## GitHub stats
 -----------------
 ![sieunp06's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieunp06&show_icons=true&theme=dracula)
 
