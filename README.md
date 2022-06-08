@@ -35,9 +35,6 @@
 
 ![sieunp06's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieunp06&show_icons=true&theme=dracula)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieunp06&layout=Demo&theme=dracula)
-
 <br>
 
 <!--
