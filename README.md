@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-</p><br>
-
-### 💡used at least once
-<p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
