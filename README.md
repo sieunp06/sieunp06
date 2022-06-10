@@ -2,10 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=sieunp06's%20GitHub&descAlignY=51&descAlign=62)
 
-## Hi there 👋
+## <Strong> Hi there 👋 </Strong>
 안녕하세요!<br>
 도전하면서 성장하고 싶은 신입 개발자입니다!
 
+<br>
+<p align="center">
+    <Strong>☁️SNS list☁️</Strong><br><br>
+    <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ssi_eun06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>psieun0606@gmail.com<br>
+</p>
 <br>
 
 ## Tech stack
