@@ -1,23 +1,24 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=sieunp06's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sieun%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)
 
-## <Strong> Hi there 👋 </Strong>
+# <Strong> Profile👋 </Strong>
 안녕하세요!<br>
-도전하면서 성장하고 싶은 신입 개발자입니다!
+도전하면서 성장하고 싶은 신입 개발자 박시은입니다!
+
+
+https://jeweled-kettledrum-b89.notion.site/Sieun-Park-f9958f3bbb8a4739ab1c60e85b7c2bbc
+
 
 <br>
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
+    <Strong>☁️SNS☁️</Strong><br>
     <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.instagram.com/ssi_eun06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<br><br>
-<Strong>📧Email📧</Strong><br>psieun0606@gmail.com<br>
-</p>
 <br>
 
-## Tech stack
-### 💡used as the main
+## <Strong> Tech stack </Strong>
+### 💡<Strong> used as the main </Strong>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
@@ -27,7 +28,7 @@
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 </p><br>
 
-### 💡studying
+### 💡<Strong>studying </Strong>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
