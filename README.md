@@ -40,7 +40,7 @@ https://jeweled-kettledrum-b89.notion.site/Sieun-Park-f9958f3bbb8a4739ab1c60e85b
     <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 <br>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </p><br>
 
 
