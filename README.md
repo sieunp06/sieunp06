@@ -1,76 +1,46 @@
-<div align="center">
+<center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sieun%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Sieun%20Park&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-# <Strong> Profile👋 </Strong>
-안녕하세요!<br>
-도전하면서 성장하고 싶은 신입 개발자 박시은입니다!
+## 🐨`About Me`🐨
 
+### 📖`Education`📖
 
-<!-- https://jeweled-kettledrum-b89.notion.site/Sieun-Park-f9958f3bbb8a4739ab1c60e85b7c2bbc -->
-
-
+Department of Computer Science and Engineering, Kyonggi University, Korea
 <br>
 
-## <Strong>☁️SNS☁️</Strong><br>
-<p align="center">
-    <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="https://www.instagram.com/ssi_eun06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<br><br>
+### 📝`SNS`📝
+<p display="inline-block">
+    <a href="https://velog.io/@sieunp06" target="_blank"><img src="https://img.shields.io/badge/Sini.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+    <a href="https://sinievlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/SINI's algorithms-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+    <a href="https://jeweled-kettledrum-b89.notion.site/SINACHIVE-b5e1648e7af149b6a67b2c8dbbadd3ea" target="_blank"><img src="https://img.shields.io/badge/SINACHIVE-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
+    
+</p><br>
 
-## <Strong> 🛠Tech stack🛠 </Strong>
-<p align="center" display="inline-block">
+## 🛠`Tech stack`🛠 
+
+<p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"><br>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=Redmine&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
-</p><br><br>
+</p>
 
+<br> <br> 
 
-## <strong>💻GitHub stats💻</strong>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunp06&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
-![sieunp06's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieunp06&show_icons=true&theme=dracula)
-
-<br>
-
-<!--
-## Beakjoon
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sieunp06)](https://solved.ac/sieunp06)
-<br>
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=teetoos)](https://solved.ac/teetoos)
--->
-
-<!--
-**sieunp06/sieunp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&section=footer)
