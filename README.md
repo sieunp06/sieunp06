@@ -1,15 +1,15 @@
-<center>
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Sieun%20Park&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-## 🐨`About Me`🐨
+## 🐨About Me🐨
 
-### 📖`Education`📖
+### 📖Education📖
 
 Department of Computer Science and Engineering, Kyonggi University, Korea
 <br>
 
-### 📝`SNS`📝
+### 📝SNS📝
 <p display="inline-block">
     <a href="https://velog.io/@sieunp06" target="_blank"><img src="https://img.shields.io/badge/Sini.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
     <a href="https://sinievlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/SINI's algorithms-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
@@ -17,7 +17,7 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
     
 </p><br>
 
-## 🛠`Tech stack`🛠 
+## 🛠Tech stack🛠 
 
 <p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -44,3 +44,5 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunp06&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&section=footer)
+
+</div>
