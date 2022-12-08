@@ -17,7 +17,7 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
     
 </p><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunp06&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunp06&color=dark)](https://velog.io/@sieunp06)
 
 <br>
 
