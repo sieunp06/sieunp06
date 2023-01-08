@@ -11,15 +11,10 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
 
 ### 📝SNS📝
 <p display="inline-block">
-    <a href="https://velog.io/@sieunp06" target="_blank"><img src="https://img.shields.io/badge/Sini.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-    <a href="https://sinievlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/SINI's algorithms-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-    <a href="https://jeweled-kettledrum-b89.notion.site/SINACHIVE-b5e1648e7af149b6a67b2c8dbbadd3ea" target="_blank"><img src="https://img.shields.io/badge/SINACHIVE-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
+    <a href="https://dev-sini.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Dev{SINI}-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
     
 </p><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunp06&color=dark)](https://velog.io/@sieunp06)
-
-<br>
 
 ## 🛠Tech stack🛠 
 
