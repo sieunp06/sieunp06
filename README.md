@@ -11,7 +11,7 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
 
 ### 📝SNS📝
 <p display="inline-block">
-    <a href="https://dev-sini.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Dev{SINI}-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+    <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Dev{SINI}-9370DB?style=for-the-badge"></a>
     
 </p><br>
 
