@@ -2,21 +2,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Sieun%20Park&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-## 🐨About Me🐨
+## About Me
 
-### 📖Education📖
+### Education
 
 Department of Computer Science and Engineering, Kyonggi University, Korea
 <br>
-
-### 📝SNS📝
+    
+### Study Log
 <p display="inline-block">
-    <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Dev{sieun}-9370DB?style=for-the-badge"></a>
+    <a href="https://jeweled-kettledrum-b89.notion.site/STUDY-LOG-63d0480b0f104750a425418f09a3d48a" target="_blank"><img src="https://img.shields.io/badge/STUDY LOG-9370DB?style=for-the-badge"></a>
     
 </p><br>
 
 
-## 🛠Tech stack🛠 
+## Tech stack
 
 <p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
