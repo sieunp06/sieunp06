@@ -11,7 +11,7 @@ Department of Computer Science and Engineering, Kyonggi University, Korea
     
 ### Study Log
 <p display="inline-block">
-    <a href="https://jeweled-kettledrum-b89.notion.site/STUDY-LOG-63d0480b0f104750a425418f09a3d48a" target="_blank"><img src="https://img.shields.io/badge/STUDY LOG-9370DB?style=for-the-badge"></a>
+    <a href="https://sieunp06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Dev{sieun}-9370DB?style=for-the-badge"></a>
     
 </p><br>
 
